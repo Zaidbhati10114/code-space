@@ -1,0 +1,13 @@
+body {
+  margin: 0;
+}
+
+.top-pane {
+  background-color: #a2d5f2;
+}
+
+.pane {
+  height: 50vh;
+  display: flex;
+  background-color: #e0ece4;
+}
